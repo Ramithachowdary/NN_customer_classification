@@ -189,14 +189,8 @@ print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[
 <img width="954" height="669" alt="546140852-1cb1b3fe-aa46-4899-b50b-3572dadcd3e2" src="https://github.com/user-attachments/assets/a838f8a9-a0b8-4753-87ee-4bb3f2f0dc70" />
 
 ## OUTPUT
-### Confusion Matrix
-<img width="1018" height="617" alt="image" src="https://github.com/user-attachments/assets/b771fffc-822d-41e3-a44f-59c5c32b7b55" />
-
-### Classification Report
-<img width="883" height="477" alt="image" src="https://github.com/user-attachments/assets/3955c992-24d9-40c4-b294-1b0cd7cb81bd" />
-
-### New Sample Data Prediction
-<img width="776" height="249" alt="image" src="https://github.com/user-attachments/assets/ab8f48ee-54b9-4d30-9e3a-1dceb1b5845d" />
+### Confusion Matrix , Classification Report & New Sample Data Prediction
+<img width="567" height="818" alt="image" src="https://github.com/user-attachments/assets/88ce6e55-bdd7-412c-9912-e2151ac141b7" />
 
 ## RESULT
 Thus, a neural network classification model for the given dataset as been created successfully.
